@@ -1,4 +1,3 @@
-
 # **CS2 Rating Modifier**
 
 This Python script allows you to modify the in-game rating for **Counter-Strike 2** by dynamically accessing and editing memory values. It uses pointer-based memory manipulation to locate and update the desired value.
@@ -8,8 +7,7 @@ This Python script allows you to modify the in-game rating for **Counter-Strike 
 ---
 
 ## **Features**
-- Dynamically reads and writes memory values of the CS2 process.
-- Calculates pointer-based memory addresses for precise modifications.
+- Just edit Premier rating.
 - Allows the user to input a custom rating value.
 
 ---
